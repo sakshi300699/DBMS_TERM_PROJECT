@@ -1,5 +1,5 @@
 # DBMS TERM PROJECT
-<P>Submitted By :- Sanjeeb Nath (18115069) Sakshi Bhandarkar (18115067)  Prakriti Saxena (18115056)</P>
+<p><b>Submitted By :- Sanjeeb Nath (18115069) Sakshi Bhandarkar (18115067)  Prakriti Saxena (18115056)</b></p><br>
 Instruction Manual for DWU
 1.	Create a database with a name of dowell university(space included).Import the MySQL file.
 2.	Open the Home.php file on the system browser.
