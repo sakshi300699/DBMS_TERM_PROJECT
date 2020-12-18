@@ -22,7 +22,7 @@
 10.	(a) Calendar;- It shows this month’s calendar
 (b) Time Table;- It shows the time table for all the courses the user ahs registered for(if any)
 (c) My Account;- This page shows all the details of the user, the header of this page has the option to update details, change password and logout.
-(d) Unit Registration ;- This page shows all the available units , and user can register in any number of courses.
+(d) Unit Registration ;- This page shows all the available units , and user can register in any number of courses according to thier campus and semester.
 
 11. The CMS page has few important links;- (a)Staff Register (b) Staff Login (c) Unit Details     (d) Student Register (e) Student Login.
 
